@@ -2,7 +2,7 @@
 
 Nice to meet you! Feel free to contact me if you are interested in collaboration on cross-displinary projects!
 
-![scseq-microfluidics logo](https://github.com/user-attachments/assets/817ac9f7-02a4-4616-a740-9ef6b155569f)
+         ![scseq-microfluidics logo](https://github.com/user-attachments/assets/817ac9f7-02a4-4616-a740-9ef6b155569f)
 
 
 <!--
