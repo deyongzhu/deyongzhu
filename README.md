@@ -2,7 +2,7 @@
 
 Nice to meet you! Feel free to contact me if you are interested in collaboration on cross-displinary projects!
 
-!(https://github.com/deyongzhu/deyongzhu/blob/main/scseq-microfluidics%20logo.png)
+https://github.com/deyongzhu/deyongzhu/blob/main/scseq-microfluidics%20logo.png
 
 <!--
 **deyongzhu/deyongzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
